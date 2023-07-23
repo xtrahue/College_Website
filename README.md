@@ -1,2 +1,2 @@
 # College_Website
-A better college website made using HTML and CSS
+A better looking college website made using HTML and CSS
